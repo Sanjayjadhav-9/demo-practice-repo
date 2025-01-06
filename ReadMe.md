@@ -70,3 +70,7 @@ git commit : This command is used to commit our changes to git local repository
     1) git remote add <repo-url> (this requires only first time).  
 
     2) git push -u origin master (this is used to move changes from local to central).
+
+git reset : It is used to unstage a file
+
+    syntax: git reset HEAD <file-name>

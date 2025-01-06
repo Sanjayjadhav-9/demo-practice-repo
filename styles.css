@@ -1,0 +1,16 @@
+/* @media (max-width: 600){ mobile screen } */
+/* @media (max-width: 768){ tablet screen } */
+/* @media (max-width: 992){ laptop screen } */
+/* @media (max-width: 1200){ desktop screen } */
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+
+html{
+    font-family: Poppins, 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 24px;
+}

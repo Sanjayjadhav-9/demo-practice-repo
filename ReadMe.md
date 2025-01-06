@@ -58,3 +58,7 @@ git rm : This command is used to un-stage newly created files
 
     syntax: git rm --cached <filename>
 
+git commit : This command is used to commit our changes to git local repository
+    syntax: git commit -m 'commit-msg'
+Note : Git local repository will be available in out machine only.
+

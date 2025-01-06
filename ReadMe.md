@@ -76,4 +76,5 @@ git reset : It is used to unstage a file
     syntax: git reset HEAD <file-name>
 
 git checkout : It is used to discard changes done in a file.
+
     syntax: git checkout -- <file-name>
